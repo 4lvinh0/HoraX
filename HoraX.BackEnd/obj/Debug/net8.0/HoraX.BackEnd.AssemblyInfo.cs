@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HoraX.BackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adaf7fc4ba9b56038c9a38c75470b1cc18b0a793")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4c9c038254ec04204648027d3fc41dc0be3ea44")]
 [assembly: System.Reflection.AssemblyProductAttribute("HoraX.BackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HoraX.BackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

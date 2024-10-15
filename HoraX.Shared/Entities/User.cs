@@ -9,6 +9,8 @@ namespace HoraX.Shared.Entities
     public class User
     {
         public int Id { get; set; }
+
+        [DataType(DataType.EmailAddress)]
         public required string Email { get; set; }
         public required string Name { get; set; }
 

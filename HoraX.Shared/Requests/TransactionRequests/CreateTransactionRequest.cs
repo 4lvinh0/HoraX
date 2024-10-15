@@ -17,7 +17,6 @@ namespace HoraX.Shared.Requests.TransactionRequests
         [Required]
         public int ForUserId { get; set; }
         public int HoursFor { get; set; }
-        public bool Accepted { get; set; } = false;
         public required Skill SkillFor { get; set; }
 
         [Required(ErrorMessage = "Descrição inválida")]
