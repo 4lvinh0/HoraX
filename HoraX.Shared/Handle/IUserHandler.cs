@@ -14,11 +14,11 @@ namespace HoraX.Shared.Handle
         //Task<Response<Transaction?>>
         //Task<PagedResponse<Transaction?>>
 
-        Task<Response<User>> CreateAsync(CreateUserRequest request);
-        Task<Response<User>> DeleteAsync(DeleteUserRequest request);
-        Task<Response<User>> GetByEmailAsync(GetByEmailUserRequest request);
-        Task<Response<User>> GetByIdAsync(GetByIdUserRequest request);
-        Task<PagedResponse<User>> GetByNameAsync(GetByNameUserRequest request);
-        Task<Response<User>> UpdateAsync(UpdateUserRequest request);
+        Task<Response<User?>> CreateAsync(CreateUserRequest request);
+        Task<Response<User?>> DeleteAsync(DeleteUserRequest request);
+        Task<Response<User?>> GetByEmailAsync(GetByEmailUserRequest request);
+        Task<Response<User?>> GetByIdAsync(GetByIdUserRequest request);
+        Task<PagedResponse<User?>> GetByNameAsync(GetByNameUserRequest request);
+        Task<Response<User?>> UpdateAsync(UpdateUserRequest request);
     }
 }

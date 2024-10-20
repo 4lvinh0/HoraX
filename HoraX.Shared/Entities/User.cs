@@ -15,5 +15,7 @@ namespace HoraX.Shared.Entities
         public required string Name { get; set; }
 
         public ICollection<UserSkill>? UserSkills { get; set; }
+        public ICollection<Transaction>? TransactionsFrom { get; set; }
+        public ICollection<Transaction>? TransactionsFor { get; set; }
     }
 }

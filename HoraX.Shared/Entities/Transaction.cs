@@ -11,11 +11,16 @@ namespace HoraX.Shared.Entities
 
 
         public int FromUserId { get; set; }
+        public required User FromUser { get; set; }
+
+
         public int HoursFrom { get; set; }
         public required Skill SkillFrom { get; set; }
 
 
         public int ForUserId { get; set; }
+        public required User ForUser { get; set; }
+
         public int HoursFor { get; set; }
         public bool? Accepted { get; set; } = null;
         public required Skill SkillFor { get; set; }

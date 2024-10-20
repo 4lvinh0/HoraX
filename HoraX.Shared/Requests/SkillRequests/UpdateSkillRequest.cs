@@ -15,7 +15,7 @@ namespace HoraX.Shared.Requests.SkillRequests
         public string Title { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "Descrição inválida")]
-        [MaxLength(255, ErrorMessage = "A descrição deve conter até 255 char")]
+        [MaxLength(512, ErrorMessage = "A descrição deve conter até 512 char")]
         public string Description { get; set; } = string.Empty;
 
     }
