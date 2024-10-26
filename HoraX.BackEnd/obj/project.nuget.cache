@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Ldp321XMJNYLUmnu1mRlng/3/4WV2sEXAEvTB0GmujlnO2PXerxHdakHbMhqWBHM88Eu266fax/issa98019w==",
+  "dgSpecHash": "80leRGW0YkBYENjPOANnKx0OdpX2jgwuJ1J7oItknjHLi8ZDg1sZmoM+NnZQAu1zTrlp5+IxFs6m93tSymbFDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\HoraX\\HoraX.BackEnd\\HoraX.BackEnd.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\HoraX\\horax.backend\\HoraX.BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -20,6 +20,7 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.10\\microsoft.entityframeworkcore.analyzers.8.0.10.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.10\\microsoft.entityframeworkcore.design.8.0.10.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.10\\microsoft.entityframeworkcore.inmemory.8.0.10.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.10\\microsoft.entityframeworkcore.relational.8.0.10.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.10\\microsoft.entityframeworkcore.sqlserver.8.0.10.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
