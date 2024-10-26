@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NQMmJRHBoBe0ciDXvbtbjqPpib6sWLjfho3sOrTsfh2lqiPOliF4C7hFpjaSPVSf/qt9rA4Ojqapw7SkaiyApQ==",
+  "dgSpecHash": "/Ldp321XMJNYLUmnu1mRlng/3/4WV2sEXAEvTB0GmujlnO2PXerxHdakHbMhqWBHM88Eu266fax/issa98019w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\HoraX\\horax.backend\\HoraX.BackEnd.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\HoraX\\HoraX.BackEnd\\HoraX.BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

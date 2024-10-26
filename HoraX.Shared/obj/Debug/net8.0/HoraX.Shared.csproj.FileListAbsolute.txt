@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\HoraX\HoraX.Shared\bin\Debug\net8.0\HoraX.Shared.deps.json
+C:\Users\Administrator\Desktop\HoraX\HoraX.Shared\bin\Debug\net8.0\HoraX.Shared.dll
+C:\Users\Administrator\Desktop\HoraX\HoraX.Shared\bin\Debug\net8.0\HoraX.Shared.pdb
+C:\Users\Administrator\Desktop\HoraX\HoraX.Shared\obj\Debug\net8.0\HoraX.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\HoraX\HoraX.Shared\obj\Debug\net8.0\HoraX.Shared.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\HoraX\HoraX.Shared\obj\Debug\net8.0\HoraX.Shared.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\HoraX\HoraX.Shared\obj\Debug\net8.0\HoraX.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HoraX\HoraX.Shared\obj\Debug\net8.0\HoraX.Shared.sourcelink.json
+C:\Users\Administrator\Desktop\HoraX\HoraX.Shared\obj\Debug\net8.0\HoraX.Shared.dll
+C:\Users\Administrator\Desktop\HoraX\HoraX.Shared\obj\Debug\net8.0\refint\HoraX.Shared.dll
+C:\Users\Administrator\Desktop\HoraX\HoraX.Shared\obj\Debug\net8.0\HoraX.Shared.pdb
+C:\Users\Administrator\Desktop\HoraX\HoraX.Shared\obj\Debug\net8.0\ref\HoraX.Shared.dll
